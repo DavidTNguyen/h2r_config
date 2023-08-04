@@ -1,0 +1,840 @@
+<!--Split -> Box 1 full-->
+<Macro index="92" name="Split -> Box 1 full" description="Created with H2R SuperSource Layouts">
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="False" />
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="False" />
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="False" />
+
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="True" />
+
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.56"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="5.25"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="5.25"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-6.27"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.63"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="4.50"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="4.50"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-5.38"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.69"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="3.75"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="3.75"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-4.48"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.75"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="3.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="3.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-3.58"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.81"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="2.25"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="2.25"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-2.69"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.88"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="1.50"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="1.50"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-1.79"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.94"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="0.75"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="0.75"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-0.90"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="1"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+
+
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="0" enable="True"/>
+
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="0" top="0"/>
+
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="0" bottom="0"/>
+</Macro>
+
+<!--Box 1 full -> Split-->
+<Macro index="96" name="Box 1 full -> Split" description="Created with H2R SuperSource Layouts">
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="True" />
+
+
+
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="True" />
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="7.166666666666667"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="1" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="6"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="1" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="6"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="1" bottom="0"/>
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="False" />
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="2" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="2" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="2" bottom="0"/>
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="False" />
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="3" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="3" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="3" bottom="0"/>
+
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-0.90"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="0.75"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="0.75"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.94"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-1.79"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="1.50"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="1.50"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.88"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-2.69"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="2.25"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="2.25"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.81"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-3.58"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="3.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="3.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.75"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-4.48"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="3.75"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="3.75"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.69"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-5.38"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="4.50"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="4.50"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.63"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-6.27"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="5.25"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="5.25"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.56"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-7.166666666666667"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="0" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="6"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="0" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="6"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="0" bottom="0"/>
+
+
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="0" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="6"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="0" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="6"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="0" bottom="0"/>
+
+</Macro>
+<!--Split -> Box 2 full-->
+<Macro index="93" name="Split -> Box 2 full" description="Created with H2R SuperSource Layouts">
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="False" />
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="False" />
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="False" />
+
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="True" />
+
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.56"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="5.25"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="5.25"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="6.27"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.63"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="4.50"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="4.50"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="5.38"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.69"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="3.75"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="3.75"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="4.48"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.75"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="3.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="3.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="3.58"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.81"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="2.25"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="2.25"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="2.69"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.88"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="1.50"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="1.50"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="1.79"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.94"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="0.75"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="0.75"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="0.90"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="1"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+
+
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="1" enable="True"/>
+
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="1" top="0"/>
+
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="1" bottom="0"/>
+</Macro>
+
+<!--Box 2 full -> Split-->
+<Macro index="97" name="Box 2 full -> Split" description="Created with H2R SuperSource Layouts">
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="True" />
+
+
+
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="True" />
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-7.166666666666667"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="0" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="6"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="0" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="6"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="0" bottom="0"/>
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="False" />
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="2" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="2" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="2" bottom="0"/>
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="False" />
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="3" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="3" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="3" bottom="0"/>
+
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="0.90"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="0.75"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="0.75"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.94"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="1.79"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="1.50"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="1.50"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.88"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="2.69"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="2.25"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="2.25"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.81"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="3.58"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="3.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="3.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.75"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="4.48"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="3.75"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="3.75"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.69"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="5.38"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="4.50"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="4.50"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.63"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="6.27"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="5.25"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="5.25"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.56"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="7.166666666666667"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="1" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="6"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="1" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="6"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="1" bottom="0"/>
+
+
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="1" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="6"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="1" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="6"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="1" bottom="0"/>
+
+</Macro>
+<!--Split -> Box 3 full-->
+<Macro index="94" name="Split -> Box 3 full" description="Created with H2R SuperSource Layouts">
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="False" />
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="False" />
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="False" />
+
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="True" />
+
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.56"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.63"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.69"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.75"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.81"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.88"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.94"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="1"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+
+
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="2" enable="True"/>
+
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="2" top="0"/>
+
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="2" bottom="0"/>
+</Macro>
+
+<!--Box 3 full -> Split-->
+<Macro index="98" name="Box 3 full -> Split" description="Created with H2R SuperSource Layouts">
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="True" />
+
+
+
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="True" />
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-7.166666666666667"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="0" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="6"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="0" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="6"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="0" bottom="0"/>
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="True" />
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="7.166666666666667"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="1" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="6"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="1" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="6"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="1" bottom="0"/>
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="False" />
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="3" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="3" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="3" bottom="0"/>
+
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.94"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.88"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.81"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.75"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.69"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.63"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.56"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="2" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="2" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="2" bottom="0"/>
+
+
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="2" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="2" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="2" bottom="0"/>
+
+</Macro>
+<!--Split -> Box 4 full-->
+<Macro index="95" name="Split -> Box 4 full" description="Created with H2R SuperSource Layouts">
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="False" />
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="False" />
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="False" />
+
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="True" />
+
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.56"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.63"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.69"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.75"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.81"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.88"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.94"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="1"/>
+
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+
+
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="3" enable="True"/>
+
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="3" top="0"/>
+
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="3" bottom="0"/>
+</Macro>
+
+<!--Box 4 full -> Split-->
+<Macro index="99" name="Box 4 full -> Split" description="Created with H2R SuperSource Layouts">
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="3" enable="True" />
+
+
+
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="0" enable="True" />
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="0" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="0" xPosition="-7.166666666666667"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="0" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="0" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="0" left="6"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="0" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="0" right="6"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="0" bottom="0"/>
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="1" enable="True" />
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="1" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="1" xPosition="7.166666666666667"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="1" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="1" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="1" left="6"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="1" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="1" right="6"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="1" bottom="0"/>
+<Op id="SuperSourceV2BoxEnable" superSource="0" boxIndex="2" enable="False" />
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="2" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="2" xPosition="0"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="2" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="2" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="2" left="0"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="2" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="2" right="0"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="2" bottom="0"/>
+
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.94"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.88"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.81"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.75"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.69"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.63"/>
+<Op id="MacroSleep" frames="1"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0.00"/>
+
+
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0.00"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0.00"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0.00"/>
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.56"/>
+<Op id="MacroSleep" frames="1"/>
+
+
+<Op id="SuperSourceV2BoxSize" superSource="0" boxIndex="3" size="0.5"/>
+<Op id="SuperSourceV2BoxXPosition" superSource="0" boxIndex="3" xPosition="0"/>
+<Op id="SuperSourceV2BoxYPosition" superSource="0" boxIndex="3" yPosition="0"/>
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="3" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="3" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="3" bottom="0"/>
+
+
+<Op id="SuperSourceV2BoxMaskEnable" superSource="0" boxIndex="3" enable="True"/>
+<Op id="SuperSourceV2BoxMaskLeft" superSource="0" boxIndex="3" left="0"/>
+<Op id="SuperSourceV2BoxMaskTop" superSource="0" boxIndex="3" top="0"/>
+<Op id="SuperSourceV2BoxMaskRight" superSource="0" boxIndex="3" right="0"/>
+<Op id="SuperSourceV2BoxMaskBottom" superSource="0" boxIndex="3" bottom="0"/>
+
+</Macro>
